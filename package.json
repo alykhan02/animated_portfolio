@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Alykhan's new portfolio",
   "main": "index.js",
+  "engines": {
+    "node" : "16.13.2"
+  },
   "scripts": {
     "start": "node /Users/alykhanversi/React_Projects/animated_portfolio/components/layouts/main.js",
     "dev": "next dev -H 0.0.0.0",
