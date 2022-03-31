@@ -2,13 +2,13 @@
   "root": true,
   "extends": "next",
   "rules": {
-    "react/display-name": [2]
-    /*"no-unused-vars": [
-      "error",
-      {
-        "argsIgnorePattern": "^_",
-        "varsIgnorePattern": "^_"
-      }
-    ]*/
+    "no-unused-vars": 0,
+      // "error",
+      // {
+      //   "argsIgnorePattern": "^_",
+      //   "varsIgnorePattern": "^_"
+      // }
+    
+    "react/display-name": 0
   }
 }
