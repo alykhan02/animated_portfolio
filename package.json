@@ -4,7 +4,7 @@
   "description": "Alykhan's new portfolio",
   "main": "index.js",
   "engines": {
-    "node": "16.13.2"
+    "node": "14.x"
   },
   "scripts": {
     "start": "next start",
