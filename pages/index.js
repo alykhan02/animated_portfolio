@@ -56,12 +56,12 @@ const Page = () => {
             and an eFX Support Analyst (Electronic Foreign Exchange). 
             Currently, he is seeking Software Developer & Software Engineer Co-ops for Fall 2022.
             Check out my {' '}
-        <NextLink href="/works/inkdrop">
+        <NextLink href="/images/resume.pdf" passHref={true}>
             <Link>Resume</Link>
         </NextLink>
         </Paragraph>
         <Box align='center' my={4}>
-            <NextLink href="/works">
+            <NextLink href="/works" passHref={true}>
                 <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
                 My Portfolio
                 </Button>
@@ -101,7 +101,7 @@ const Page = () => {
         </Heading>
         <Paragraph word-spacing="1px">
           Ping-Pong, Soccer,{' '}
-          <Link href="https://github.com/alykhan02" target="_blank">
+          <Link href="https://github.com/alykhan02" target="_blank" passHref={true}>
             Coding
           </Link>
           , Formula-1,

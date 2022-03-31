@@ -59,10 +59,10 @@ const Navbar = props => {
             flexGrow={1}
             mt={{base:4, md:0}}
             >
-            <LinkItem href='/works' path={path}>
+            <LinkItem href='/works' path={path} passHref={true}>
             Projects
             </LinkItem>
-            <LinkItem href='/images/resume.pdf' path={path}>
+            <LinkItem href='/images/resume.pdf' path={path} passHref={true}>
             Resume
             </LinkItem>
             </Stack>

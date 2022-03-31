@@ -20,7 +20,7 @@ export const WorkGridItem = ({ children, id, title, thumbnail }) => (
         <NextLink href={`/works/${id}`} scroll={false}>
             <LinkBox cursor="pointer">
                 <Image src={thumbnail} alt={title} className="g" placeholder="blur" />
-                <LinkOverlay href={`/works/${id}`}>
+                <LinkOverlay href={`/works/${id}`} passHref={true}>
                     <Text mt={2} fontSize={20}>
                         {title}
                     </Text>
