@@ -20,9 +20,10 @@ const VoxelDog = () => {
           10,
           20 * Math.cos(0.2 * Math.PI)
         )
-      )
+    )
     const [scene] = useState(new THREE.Scene())
     const [_controls, setControls] = useState()
+    
     const handleWindowResize = useCallback(() => {
         const { current: container} = refContainer
         if (container && renderer) {
