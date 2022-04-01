@@ -27,7 +27,7 @@ const Work = () => (
         </ListItem>
         <ListItem>
           <Meta>Stack</Meta>
-          <span>Python Flask, HTML, CSS & JavaScript</span>
+          <span>Python Flask, SQLAlchemy, MySQL DB, Bootstrap, HTML, CSS & JavaScript</span>
         </ListItem>
         {/* <ListItem>
           <Meta>Blogpost</Meta>
@@ -38,7 +38,7 @@ const Work = () => (
         </ListItem> */}
       </List>
 
-      <WorkImage src="/images/review-flask.jpg" alt="CIBC Flask App" />
+      <WorkImage src="/images/review-flask.png" alt="CIBC Flask App" />
     </Container>
   //</Layout>
 )

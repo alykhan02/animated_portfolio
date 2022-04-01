@@ -2,7 +2,7 @@ import {Container, Heading, SimpleGrid} from '@chakra-ui/react'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 import thumbcrypto from '../public/images/crypto.jpg'
-import thumbflask from '../public/images/flask.jpg'
+import thumbflask from '../public/images/flask.png'
 import thumbShip from '../public/images/battleship-splash-page.jpg'
 import thumbGames from '../public/images/video-game-shop.jpg'
 

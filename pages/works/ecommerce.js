@@ -29,6 +29,12 @@ const Work = () => (
           <Meta>Stack</Meta>
           <span>React, HTML, CSS, JavaScript</span>
         </ListItem>
+        <ListItem>
+        <Meta>Source</Meta>
+          <Link href="https://github.com/alykhan02/react-video-game-site">
+          Code <ExternalLinkIcon mx="2px" />
+          </Link>
+        </ListItem>
         {/* <ListItem>
           <Meta>Blogpost</Meta>
           <Link href="https://blog.inkdrop.app/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820">

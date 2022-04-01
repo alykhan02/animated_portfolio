@@ -55,7 +55,7 @@ const Page = () => {
             Additionally, he has had two co-op experiences with CIBC & CIBC Capital Markets as a Technical Process Analyst 
             and an eFX Support Analyst (Electronic Foreign Exchange). 
             Currently, he is seeking Software Developer & Software Engineer Co-ops for Fall 2022.
-            Check out my {' '}
+            Check out his {' '}
         <NextLink href="/images/resume.pdf" passHref={true}>
             <Link>Resume</Link>
         </NextLink>
