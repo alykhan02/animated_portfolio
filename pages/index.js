@@ -4,7 +4,6 @@ import Paragraph from "../components/paragraph"
 import NextLink from 'next/link'
 import { ChevronRightIcon } from "@chakra-ui/icons"
 import { BioSection, BioYear } from "../components/bio"
-//import {Layout} from '../components/layouts/article'
 import Image from 'next/image'
 
 const ProfileImage = chakra(Image, {
@@ -13,7 +12,6 @@ const ProfileImage = chakra(Image, {
 
 const Page = () => {
     return (
-        //<Layout>
         <Container>
             <Box z-index="-1" position="relative" borderRadius="lg" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} p={3} mb={6} textAlign="center">
                 Hello, I am Alykhan an aspiring Software Developer in Toronto!
@@ -110,7 +108,6 @@ const Page = () => {
       </Section>
       </Box>
     </Container>
-   //</Layout>
     ) 
 }
 export default Page

@@ -35,15 +35,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/works.js"
     ],
-    "/works/crypto": [
+    "/works/flaskapp": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/works/crypto.js"
-    ],
-    "/works/ecommerce": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/works/ecommerce.js"
+      "static/chunks/pages/works/flaskapp.js"
     ]
   },
   "ampFirstPages": []
