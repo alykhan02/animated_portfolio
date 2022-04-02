@@ -13,7 +13,7 @@ const Work = () => (
         for members of our Business Team to map accounts to our MemSQL database. The frontend was built with Python Flask, 
         HTML, CSS & JavaScript and the backend utilizes SQLAlchemy to pull from our MySQL and MemSQL databases while simultaneously
         writing to them both. Additionally, this is tool will be used on a daily basis, resulting in process automation 
-        of around 15% of the Support team's daily tasks. 
+        of around 15% of the tasks from the Support Team. 
       </P>
       <List ml={4} my={4} z-index="-1" position="relative">
         <ListItem>
@@ -26,7 +26,7 @@ const Work = () => (
         </ListItem>
       </List>
       <WorkImage src="/images/review-flask.png" alt="Bank Flask App" />
-      <WorkImage src="/images/submit-flask.png" alt="Bank Flask App" />
+      <WorkImage src="/images/submit-flask.png" alt="Bank Flask App Picture 2" />
     </Container>
 )
 
