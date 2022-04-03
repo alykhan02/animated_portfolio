@@ -10,7 +10,7 @@ const Works = () => {
     return (
         <Container>
             <Heading as="h3" fontSize={20} mb={4} z-index="-1" position="relative">
-                Works
+                Projects
             </Heading>
 
             <SimpleGrid columns={[1,1,2]} gap={6}>
@@ -22,7 +22,7 @@ const Works = () => {
                 </Section>
                 <Section>
                     <WorkGridItem id="flaskapp" title="Bank Internal Account Mapping Tool" thumbnail={thumbflask}>
-                       A tool that I built for one of my co-op, which allows our multinational Business team to map accounts to
+                       A tool that I built for one of my co-op terms, which allows our multinational Business team to map accounts to
                        our database.
                     </WorkGridItem>
                 </Section>

@@ -1,0 +1,12 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/works": "pages/works.html",
+  "/works/battleship": "pages/works/battleship.html",
+  "/works/crypto": "pages/works/crypto.html",
+  "/works/ecommerce": "pages/works/ecommerce.html",
+  "/works/flaskapp": "pages/works/flaskapp.html",
+  "/404": "pages/404.html",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.html"
+}

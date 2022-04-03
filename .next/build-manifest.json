@@ -1,0 +1,69 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/d12H33xCdBzR842A6Wfgy/_buildManifest.js",
+    "static/d12H33xCdBzR842A6Wfgy/_ssgManifest.js",
+    "static/d12H33xCdBzR842A6Wfgy/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/index-9405bf4e24e3f0ec.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/404-3a63ab15e97f0df1.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/_app-2e6635eeaa03714b.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/_error-1995526792b513b2.js"
+    ],
+    "/works": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/works-833749c806cd69fa.js"
+    ],
+    "/works/battleship": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/works/battleship-ef21acf08d26d44c.js"
+    ],
+    "/works/crypto": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/works/crypto-ed502a2997a51f7a.js"
+    ],
+    "/works/ecommerce": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/works/ecommerce-903e7c87b27b8ab6.js"
+    ],
+    "/works/flaskapp": [
+      "static/chunks/webpack-9b0e45c24ba97727.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-e41bd1650b09c678.js",
+      "static/chunks/pages/works/flaskapp-9a38980abdcb6edd.js"
+    ]
+  },
+  "ampFirstPages": []
+}
