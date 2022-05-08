@@ -12,7 +12,7 @@ const Work = () => (
         I developed this application for one of my co-op positions and it is a fullstack application 
         for members of our Business Team to map accounts to our MemSQL database. The frontend was built with Python Flask, 
         HTML, CSS & JavaScript and the backend utilizes SQLAlchemy to pull from our MySQL and MemSQL databases while simultaneously
-        writing to them both. Additionally, this is tool will be used on a daily basis, resulting in process automation 
+        writing to them both. Additionally, this tool will be used on a daily basis, resulting in process automation 
         of around 15% of the tasks from the Support Team. 
       </P>
       <List ml={4} my={4} z-index="-1" position="relative">
