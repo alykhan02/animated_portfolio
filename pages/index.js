@@ -47,12 +47,11 @@ const Page = () => {
             <Heading as="h3" variant="section-title">
                 Me
             </Heading>
-        <Paragraph>Alykhan is a second year university student based in Toronto studying Management and Computer Science 
-            at the University of Toronto. He is very involved with the University community by being the VP of IT 
-            in the Management Communications Association while also being the IT Director for the Co-op Students Association.
-            Additionally, he has had two co-op experiences with CIBC & CIBC Capital Markets as a Technical Process Analyst 
-            and an eFX Support Analyst (Electronic Foreign Exchange). 
-            Currently, he is seeking Software Developer & Software Engineer Co-ops for Fall 2022.
+        <Paragraph>Alykhan is a third year university student based in Toronto studying Management and Computer Science 
+            at the University of Toronto. He has had three co-op experiences with CIBC, CIBC Capital Markets and 
+            PointClickCare in Software Development roles. He is very involved with the University community by being the 
+            VP of IT in the Management Communications Association while also being a FrontEnd Developer for the 
+            Live Competition. Currently, he is seeking Software Developer & Software Engineer Co-ops for Summer 2023.
             Check out his {' '}
         <NextLink href="/images/resume.pdf" passHref={true}>
             <Link>Resume</Link>
@@ -76,20 +75,20 @@ const Page = () => {
                 Born in Toronto, Canada
             </BioSection>
             <BioSection>
-            <BioYear>2016 - 2020</BioYear>
-            Graduated High School with honors from VPCI
-            </BioSection>
-            <BioSection>
             <BioYear>2020 - 2024</BioYear>
             Started University @ UofT Mgmt & Computer Science
             </BioSection>
             <BioSection>
             <BioYear>2021 May - August</BioYear>
-            Co-op @ CIBC as a Technical Process Analyst
+            Technical Process Analyst @ CIBC
             </BioSection>
             <BioSection>
             <BioYear>2022 Jan - April</BioYear>
-            Co-op @ CIBC Capital Markets as an eFX Support Analyst
+            eFX Software Developer @ CIBC Capital Markets
+            </BioSection>
+            <BioSection>
+            <BioYear>2022 Sept - Dec</BioYear>
+            Software Developer (SRE/DevOPS/Platform) @ PointClickCare
             </BioSection>
         </Section>
 
@@ -103,7 +102,7 @@ const Page = () => {
             Coding
           </Link>
           , Formula-1,
-            Snowboarding, Finance, Cryptocurrency
+            Snowboarding, Finance
         </Paragraph>
       </Section>
       </Box>

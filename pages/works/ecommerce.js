@@ -14,12 +14,12 @@ const Work = () => (
         it showcases a sample of what the Game Bros shop could look like.
       </P>
       <List ml={4} my={4} z-index="-1" position="relative">
-        <ListItem>
+        {/* <ListItem>
           <Meta>Website</Meta>
           <Link href="https://game-bros.herokuapp.com/" target="_blank" rel="noopener noreferrer">
           https://game-bros.herokuapp.com/ <ExternalLinkIcon mx="2px" />
           </Link>
-        </ListItem>
+        </ListItem> */}
         <ListItem>
           <Meta>Platform</Meta>
           <span>Windows/macOS/Mobile</span>

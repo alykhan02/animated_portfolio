@@ -15,10 +15,10 @@ const Work = () => (
       </P>
       <List ml={4} my={4} z-index="-1" position="relative">
         <ListItem>
-          <Meta>Website</Meta>
+          {/* <Meta>Website</Meta>
           <Link href="https://alykhan-battleship.herokuapp.com/" target="_blank" rel="noopener noreferrer">
           https://alykhan-battleship.herokuapp.com/ <ExternalLinkIcon mx="2px" />
-          </Link>
+          </Link> */}
         </ListItem>
         <ListItem>
           <Meta>Platform</Meta>

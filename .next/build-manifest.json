@@ -5,16 +5,16 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/d12H33xCdBzR842A6Wfgy/_buildManifest.js",
-    "static/d12H33xCdBzR842A6Wfgy/_ssgManifest.js",
-    "static/d12H33xCdBzR842A6Wfgy/_middlewareManifest.js"
+    "static/I-_nhi1dvPM90bFXBx0Qu/_buildManifest.js",
+    "static/I-_nhi1dvPM90bFXBx0Qu/_ssgManifest.js",
+    "static/I-_nhi1dvPM90bFXBx0Qu/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
       "static/chunks/webpack-9b0e45c24ba97727.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-e41bd1650b09c678.js",
-      "static/chunks/pages/index-9405bf4e24e3f0ec.js"
+      "static/chunks/pages/index-19cd733e57a4102f.js"
     ],
     "/404": [
       "static/chunks/webpack-9b0e45c24ba97727.js",
@@ -38,25 +38,25 @@
       "static/chunks/webpack-9b0e45c24ba97727.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-e41bd1650b09c678.js",
-      "static/chunks/pages/works-833749c806cd69fa.js"
+      "static/chunks/pages/works-bc361069ac238a12.js"
     ],
     "/works/battleship": [
       "static/chunks/webpack-9b0e45c24ba97727.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-e41bd1650b09c678.js",
-      "static/chunks/pages/works/battleship-ef21acf08d26d44c.js"
+      "static/chunks/pages/works/battleship-0a7a250de7f2cd42.js"
     ],
     "/works/crypto": [
       "static/chunks/webpack-9b0e45c24ba97727.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-e41bd1650b09c678.js",
-      "static/chunks/pages/works/crypto-ed502a2997a51f7a.js"
+      "static/chunks/pages/works/crypto-cc65f69535e9fda8.js"
     ],
     "/works/ecommerce": [
       "static/chunks/webpack-9b0e45c24ba97727.js",
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-e41bd1650b09c678.js",
-      "static/chunks/pages/works/ecommerce-903e7c87b27b8ab6.js"
+      "static/chunks/pages/works/ecommerce-acced31c696a2e0e.js"
     ],
     "/works/flaskapp": [
       "static/chunks/webpack-9b0e45c24ba97727.js",
